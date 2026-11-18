@@ -1,0 +1,6 @@
+{
+  "name": "EduVerse 3D",
+  "description": "Platform mini-game edukasi 3D interaktif ala Roblox dengan lobi pulau melayang dan game pembelajaran seru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
